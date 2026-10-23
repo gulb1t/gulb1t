@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  <img src="./header.svg" alt="hi there, i'm alex 🎊" width="650" />
+  <img src="./header.svg" alt="hi there, i'm gulb1t 👾" width="650" />
 </h1>
 
 <p>
@@ -11,8 +11,8 @@
 
 <p>
   💬 <b>contact me:</b><br>
-  <a href="https://wound.lol/alex">wound.lol/alex</a> · 
-  <a href="mailto:eg574@proton.me">eg574@proton.me</a>
+  <a href="https://haunt.gg/gulbit">haunt.gg/gulbit</a> · 
+  <a href="mailto:contact@gulb.it">contact@gulb.it</a>
 </p>
 
 </div>
